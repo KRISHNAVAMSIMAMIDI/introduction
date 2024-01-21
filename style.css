@@ -8,4 +8,5 @@ body {
     background: url(cinematography.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+  position: fixed;
 }
