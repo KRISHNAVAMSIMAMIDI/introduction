@@ -5,5 +5,7 @@ p {
     color:brown;
 }
 body {
-    background-color:rgb(2, 2, 49);
+    background: url(cinematography.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
