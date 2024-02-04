@@ -10,3 +10,8 @@ body {
   background-size: cover;
   position: fixed;
 }
+#box1 {
+    background-color: darkgray;
+    color:black;
+  }
+  
