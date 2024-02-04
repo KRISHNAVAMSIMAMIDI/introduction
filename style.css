@@ -11,25 +11,10 @@ body {
   position: fixed;
 }
 
-#navbar {
-    background-color:black;
+ #navbar {
+    background-color:blanchedalmond;
     height: 60px;
-  }
-  
-
-#logo1 {
-    margin: 200px;
-    color:crimson;
-}
-#logo2 {
-    margin: 200px;
-    color:crimson;
-}
-#logo3 {
-    margin: 200px;
-    color:crimson;
  }
-#logo4 {
-    margin: 200px;
-    color:crimson;
+ a {
+    margin-right: 200px;
  }
