@@ -5,10 +5,8 @@ p {
     color:whitesmoke;
 }
 body {
-    background: url(blue.png);
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: fixed;
+    background-color: blue;
+  
 }
 
  #navbar {
