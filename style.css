@@ -1,18 +1,7 @@
-h1 {
-    color:brown;
-}
-p {
-    color:whitesmoke;
-}
+
 body {
 
  #navbar {
     background-color:black;
     height: 30px;
- }
- a {
-    margin-right: 50px;
-    margin-left: 50px;
-    color:brown;
-    font-size: 30px;
  }
