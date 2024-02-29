@@ -5,17 +5,14 @@ p {
     color:whitesmoke;
 }
 body {
-    background-color: blue;
-  
-}
 
  #navbar {
-    background-color:blanchedalmond;
+    background-color:black;
     height: 30px;
  }
  a {
-    margin-right: 200px;
-    margin-left: 200px;
+    margin-right: 50px;
+    margin-left: 50px;
     color:brown;
     font-size: 30px;
  }
