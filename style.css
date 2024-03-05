@@ -3,8 +3,13 @@ body {
 
  #navbar {
     background-color:black;
-    height: 300px;
+    height: 100px;
  }
- #logo{ 
+ #logo1{ 
    color:azure;
+   margin-left: 200px;
+ }
+ #logo2{
+   color:antiquewhite;
+   margin-left: 200-px
  }
