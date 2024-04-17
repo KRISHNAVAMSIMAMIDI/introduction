@@ -3,15 +3,16 @@ body {
 
  #navbar {
     background-color:black;
-    height: 10px;
+    height: 50px;
  }
  #logo1{ 
    color:azure;
-   margin-left: 200px;
-   margin-right: 200px;
+   margin-left: 100px;
+   margin-right: 100px;
 
  }
  #logo2{
    color:antiquewhite;
-   margin-left: 200-px
+   margin-left: 100px;
+   margin-right: 100px;
  }
