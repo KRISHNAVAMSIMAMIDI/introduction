@@ -6,7 +6,7 @@ body {
     height: 50px;
  }
  #logo1{ 
-   color:azure;
+   color:antiquewhite;
    margin-left: 100px;
    margin-right: 100px;
 
@@ -18,6 +18,5 @@ body {
  }
 
 #logo3{
-  colour:white;
-
- }
+  color:antiquewhite;
+}
